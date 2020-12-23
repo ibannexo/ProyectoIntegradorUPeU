@@ -1,0 +1,10 @@
+pe\edu\upeu\jtg\utils\LeerArchivo.class
+pe\edu\upeu\jtg\modelo\Productos.class
+pe\edu\upeu\jtg\dao\AppCrud.class
+pe\edu\upeu\jtg\dao\PedidosDao.class
+pe\edu\upeu\jtg\utils\LeerTeclado.class
+pe\edu\upeu\jtg\utils\UtilsX.class
+pe\edu\upeu\jtg\modelo\Pedidos.class
+pe\edu\upeu\jtg\App.class
+pe\edu\upeu\jtg\modelo\Clientes.class
+pe\edu\upeu\jtg\proyectointegrador\Proyecto.class

@@ -1,0 +1,60 @@
+POO8	Pollo 1/8	6.5	1	3.0
+PO4U	Pollo 1/4	11.0	1	3.0
+PO4N	Pollo 1/4	13.0	1	3.0
+PO4G	Pollo 1/4	15.5	1	3.0
+PO2U	Pollo 1/2	22.0	1	3.0
+PO2N	Pollo 1/2	27.0	1	3.0
+PO2G	Pollo 1/2	31.0	1	3.0
+PO1U	Pollo	42.0	1	3.0
+PO1N	Pollo 1	50.0	1	3.0
+PO1G	Pollo 1	60.0	1	3.0
+PB1U	Pollo Bros	6.5	1	3.0
+PB4N	Pollo Bros	11.0	1	3.0
+PB2N	Pollo Bros 1/2	13.5	1	3.0
+PB1N	Pollo Bros 1	15.5	1	3.0
+PAP	Parrillada Personal	31.0	1	3.0
+PAM	Parrillada Mediana	42.0	1	3.0
+PAG	Parrillada Granja	55.0	1	3.0
+PCC	Chuleta Cerdo	16.5	1	3.0
+PCR	Chuleta Res	15.5	1	3.0
+PPO	Pollo A La Parrilla	15.5	1	3.0
+PI01P	Pizza Personal	20.0	1	3.0
+PI01F	Pizza Granja Familiar	35.0	1	3.0
+PI01G	Pizza Granja (G)	52.0	1	3.0
+PI02P	Pizza Vegetariana	17.0	1	3.0
+PI02F	Pizza Vegetariana	27.0	1	3.0
+PI02G	Pizza Vegetariana	47.0	1	3.0
+PI03P	Pizza Hawaiana	14.0	1	3.0
+PI03F	Pizza Hawaiana	27.0	1	3.0
+PI03G	Pizza Hawaiana	45.0	1	3.0
+PI04P	Pizza DT	14.0	1	3.0
+PI04F	Pizza DT	27.0	1	3.0
+PI04G	Pizza DT	45.0	1	3.0
+PI05P	Pizza Napolitana	13.0	1	3.0
+PI05F	Pizza Napolitana	25.0	1	3.0
+PI05G	Pizza Napolitana	42.0	1	3.0
+PI06P	Pizza TC	14.0	1	3.0
+PI06	Pizza T	20.0	1	3.0
+PI06F	Pizza TC	27.0	1	3.0
+PI06G	Pizza TC	47.0	1	3.0
+PI07P	Pizza TOC	13.0	1	3.0
+PI07F	Pizza TOC	25.0	1	3.0
+PI07G	Pizza TOC	45.0	1	3.0
+PI08P	Pizza HR	15.0	1	3.0
+PI08F	Pizza HR	29.0	1	3.0
+PI08G	Pizza HR	47.0	1	3.0
+PI09P	Pizza Caribe¤a	15.0	1	3.0
+PI09F	Pizza Caribe¤a	29.0	1	3.0
+PI09G	Pizza Caribe¤a	47.0	1	3.0
+PI10P	Pizza EP	14.0	1	3.0
+PI10F	Pizza EP	27.0	1	3.0
+PI10G	Pizza EP	45.0	1	3.0
+PI11P	Pizza Margarita	13.0	1	3.0
+PI11F	Pizza Margarita	25.0	1	3.0
+PI11G	Pizza Margarita	42.0	1	3.0
+PI12P	Pizza Picante	15.0	1	3.0
+PI12F	Pizza Picante	29.0	1	3.0
+PI12G	Pizza Picante	47.0	1	3.0
+PI13P	Pizza Americana	15.0	1	3.0
+PI13F	Pizza Americana	29.0	1	3.0
+PI13G	Pizza Americana	47.0	1	3.0
